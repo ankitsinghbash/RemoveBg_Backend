@@ -16,7 +16,7 @@ const path = require('path');
 
 
 const corsOptions = {
-  origin: 'http://localhost:3000', // Frontend URL
+  origin: 'https://bg-remove-frontend-1b3a.vercel.app/', // Frontend URL
   methods: ['GET', 'POST'],
   allowedHeaders: ['Content-Type'],
 };
